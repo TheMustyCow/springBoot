@@ -1,2 +1,5 @@
 com/example/contactmanager/model/Contact.class
+com/example/contactmanager/controller/ContactController.class
+com/example/contactmanager/service/ContactService$1.class
+com/example/contactmanager/service/ContactService.class
 com/example/contactmanager/ContactManagerApplication.class
